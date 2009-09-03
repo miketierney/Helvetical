@@ -6,6 +6,7 @@
 // @include     http://*.google.com/calendar/render/*
 // @include     htt*://*.google.*/calendar/render*
 // @include     http://www.google.com/calendar/hosted/*
+// @include     htt*://*.google.com*/calendar/hosted/*
 // @author      Ad Taylor
 // ==/UserScript==
 
