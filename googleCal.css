@@ -27,7 +27,8 @@ a:hover,.lk:hover,.wk-daylink:hover,.sidelink:hover,#todayButton:hover,.calHeade
 a:hover,.lk:hover,.wk-daylink:hover,#show_search_opts:hover{color:#333 !important;}
 .dpdiv{padding:0px;}
 /* LINKS*/
-#mainlogo,#gbar,.gbh,#guser b{opacity :0;}
+#mainlogo {margin-top: -9px;} /* This might need some tweaking, since it's kind of specific to the logo being used. */
+#gbar,.gbh,#guser b{opacity :0;}
 #guser{margin-top :3px;font-size :9px;color :rgb(153,153,153) !important;padding-right:13px;}
 .logoparent{background:transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAhCAYAAADzorj5AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAxNJREFUeNrsWduN2kAUxVH%2BcSqI87HfcQeBCsAVABUsVABbQUgF661goQKcCvB%2B52NNB04Fzox0RjoazfihBbxh75GuMJqZy525Z%2B7DBFVVDQQCFwIhh0DIIRByCIQcAiGHQMghEHIIhBwCIYdAyHFm%2FAmCn%2BojxtexY0rTeB0O%2BHxSkl5pS8beXMnqAvrnSmb64a6qxtf01eceCKkPcvSG8TqYddmFbDc3aaPk4Qz2tsHXC%2Bt%2FV%2BS4NehoESopb21j%2Fxs59C2d4PlFya5hbuiJJOYmFhCNSMlUyVDJCbpLGotofQQdeYO9Wt93PP%2F2RDQTeYYt9yXksKCd%2FIjDZmjHJh4nxVhjapeMiGFqkwQ61kgVdi2xQu0ys8bnkDHWjqB%2FTL%2F9bBHKtjfEHFfKKKEr7%2FPQP%2FXs9MohrsMyxNCHtoWjShz%2BM0UIBt%2B%2BieO5xJwlOT7Fc06EjHHrmRwZvhceIh9gm7F3a9mrcU973YAMC9KxlsjRLpVM6aabCLBXcqR0kDpu3w5jU%2BokphZ51o4i8xfpvofTMiJIRnNd3UXosPcFZDMp6QR9J8v2GcbDj06OjedwI0d9oPEDwgQIEQ1creseZIioPY6IAFyXRNZtLYlMiw57MvblVo2RemyMqTaJ%2BupM3iM5HjztKJNj2ECmQc0t21HdMbFyf245Yt5R96BhflP3YtclxqbCUat8yJqjDf7S8xclgUN8L4dKSh9TR0phByYe3UFHe0srQnGHc4AwMTQhvkESTx0j5Ki5%2Fa7bbar9g6OLsVOLuakmtTxR6C8o19vdysFTGIYtfi%2By7DUF6IiKU1O%2FFKQ3FnK0R4Fq3zjsCKe9Uj2R1axPrQhRWC0iF6qvpHsJR%2B4dUWFZ01mlpP8R9h6xZoC98PuVOfa1xrxQyNENK2pfY6rmM4TiskP02TnGEsr1puZxvUNZtAz7Yyo%2BOWJtiYwJFdSmnc6I6L3XHX388fZWFSOKAOfOz6Z7Kc%2F0AorTRNawn7yJ5HdX9pX8ZS8QcgiEHAIhh0DIIRByCIQcAiGHQMghuHn8E2AAaUUD1oBrxxgAAAAASUVORK5CYII%3D) no-repeat -25px 7px;}
 .logoparent:hover{opacity :0.5;}
